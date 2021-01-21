@@ -1,0 +1,78 @@
+body{
+	padding: 20px 135px;
+	margin:0px auto;
+	font-family:verdana;
+}
+
+.temizle{
+	clear:both;
+}
+
+.bdon{
+	float:right;
+	margin:10px 0px;
+	padding: 10px 20px 10px 940px;
+}
+
+.baslik{
+	padding:30px 10px 0px 10px;
+}
+
+.bdon{
+	background-color:#C62828;
+	color:white;
+}
+
+h1{
+	
+	background-color:#C62828;
+	color:white;
+	padding:10px ;
+	text-align:center;
+}
+
+a{
+	padding:10px 59.42px;
+	background-color:white;
+	color:#C62828;
+	font-weight: bold;
+	text-decoration:none;
+}
+
+a:hover{
+	background-color:#C62828;
+	color:white;
+}
+
+p{ 
+	text-indent:10px;
+}
+
+img{
+	width:300px;
+	float:left;
+}
+
+table{
+	margin:30px 0px;
+}
+
+table, th, td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+
+th{
+	padding:15px 10px;
+}
+
+td{
+	padding:10px 7px;
+	text-align:center;
+}
+
+td img{
+	width:40px;
+	padding:0px 17px;
+}
+
